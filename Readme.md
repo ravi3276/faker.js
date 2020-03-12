@@ -1,3 +1,11 @@
+TEAM MEMBERS,
+RAVI TEJA,
+PREETHAM,
+SURESH,
+VAMSI KRISHNA,
+
+Contribution movies==> director,genre
+
 # faker.js - generate massive amounts of fake data in the browser and node.js
 
 ![Faker.js](https://raw.githubusercontent.com/Marak/faker.js/master/logo.png)
@@ -482,3 +490,4 @@ sdbsgdfhsjbf
 dfkhsajfgs
 vsdbfjasbfj
 sdfhsfwehfehhd
+
